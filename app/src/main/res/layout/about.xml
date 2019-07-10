@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:background="#80000000"
+    android:layout_height="match_parent">
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_margin="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="20dp"
+            android:textColor="#CCCC00"
+            android:textStyle="italic"
+            android:text=" Hi,\n users we have made this android application inorder to give parents a peaceful sleep when their child is not in  the home.\n This app can give power to the parents to directly access to the child's phone via taking SCREENSHOTS  of thier child's anroid device whenever they want .Thanks for using this App -\n ADITYA RANA\n Cheif Developer. "
+            />
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

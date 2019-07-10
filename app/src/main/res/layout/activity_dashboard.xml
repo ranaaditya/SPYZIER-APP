@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#80000000"
+    tools:context=".screenview">
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:textColor="#CCCC00"
+            android:textStyle="italic"
+            android:text=" Hi,\n users we have made this android application inorder to give parents a peaceful sleep when their child is not in  the home.\n This app can give power to the parents to directly access to the child's  activity over the phone via taking SCREENSHOTS  of thier child's anroid device whenever they want .\n Through this app , the parents can monitor their child's activity what he/her id seeing on the device.\n This app has been made to help out the parents when they have dilemma that whether they should give a smartphone to their child,through this app parents can solve this problem .\n Apart from ScreenShot this app also facilitates the parents to get the current location of the child whenever they want ,with more precise accuracy over Google Map \n. We have made this app much faster so , you can easily gat the ScreenShot or live location in less than a second,. \n \n\n WARNING : - We  can monitor the Malicious activities(if complaint) so, this app should not be used to have an eye on any other than your child. \n\n\n
+\n Thanks for using this App \n ADITYA RANA ,\n Chief Developer."
+            />
+    </androidx.core.widget.NestedScrollView>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
