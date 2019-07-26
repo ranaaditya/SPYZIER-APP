@@ -17,7 +17,7 @@ import java.util.Map;
 public class choice extends AppCompatActivity {
 
     final private String FCM_API = "https://fcm.googleapis.com/fcm/send";
-    final private String serverKey = "key=" + "AAAAyy_lCnI:APA91bEi14eyPCCt-m5tY0zoHjQCmzEd2iv7FD0ifXWOipKDL2_L-86lZCX5WF5nL3JwrlhlcfnDQ29xcc07i_ibQKgfgM8VsY2Z7z0JAxR_leCCsz9srdP-zamEcJjfIiRxotzmVw3y";
+    final private String serverKey = "key=" + "Your_Api_key";
     final private String contentType = "application/json";
     public static final String TOPIC = "/topics/childclient";
 
