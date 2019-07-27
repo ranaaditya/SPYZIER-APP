@@ -6,7 +6,7 @@
 
 ## **ABOUT THIS APP**
 
-Introducing,  **_SPYZIER_**  a fast, intuitive and one of the compatible Android monitoring software programs that’s personified to meet all the digital safety challenges of your child . It lets you retrieve extensive details relating to the monitored device without blowing your cover. And it doesn’t even require you to **ROOT** or **JAILBREAKING** the device. The app can be used to track location, contacts, call logs, text messages, and much more. 
+Introducing,  **_SPYZIER_**  a fast, intuitive and one of the compatible Android monitoring software programs that’s personified to meet all the digital safety challenges of your child . It lets you retrieve extensive details relating to the monitored device without blowing your cover. And it doesn’t even require you to **ROOT**  the device. The app can be used to track location, contacts, call logs, text messages, and much more. 
 
 
 Advanced features such as  **INSTANTANEOUS SCREENCAPTURE**,**CALL LOGS** , **MESSAGING LOGS**,**LIVE LOCATION**,**LIVE GPS TRACKING** and others make it a valuable solution for parents who want to monitor their children’s itsy-bitsy details of their cell phone use. The best part is this efficient Android monitoring software of 2019 stays 100 percent invisible on the target device as the app icon disappears once you install it on the desired device.
@@ -20,14 +20,14 @@ This ensures the app keeps running in the background at all times. Getting the a
 
 
 ## **KEY TECHNOLOGY USED**
-1. **CLIENT - SERVER ARCHITECTURE**
-2. **FIREBASE CLOUD MESSAGING**
-3. **FIREBASE CLOUD STORAGE**
-4. **ANDROID NETWORKING** 
-5. **ANDROID MATERIAL DESIGN** 
-6. **GOOGLE PLAY SERVICES**
-7. **GOOLE MAP SDK**
-8. **ANDROID PROJECTION MANAGER API**
+1. [**CLIENT - SERVER ARCHITECTURE**](https://www.w3schools.in/what-is-client-server-architecture/)
+2. [**FIREBASE CLOUD MESSAGING**](https://firebase.google.com/docs/cloud-messaging/?gclid=CjwKCAjw7O_pBRA3EiwA_lmtfpvcIuuKSSJt_OpaM035Roo0lb-7EnmiS9E6pPwke6N0flvFuSYzWBoCudoQAvD_BwE)
+3. [**FIREBASE CLOUD STORAGE**](https://firebase.google.com/docs/storage)
+4. [**ANDROID NETWORKING**](developer.android.com/training/basics/network-ops/connectinga)
+5. [**ANDROID MATERIAL DESIGN** ](https://material.io/develop/android/)
+6. [**GOOGLE PLAY SERVICES**](https://support.google.com/googleplay/answer/9037938?hl=en)
+7. [**GOOLE MAP SDK**](https://developers.google.com/maps/documentation/android-sdk/intro)
+8. [**ANDROID MEDIA PROJECTION API**](https://developer.android.com/reference/android/media/projection/MediaProjection)
 
 ### HOW TO INSTALL 
 
@@ -45,9 +45,9 @@ This ensures the app keeps running in the background at all times. Getting the a
 
 ## FURTHER DEVELOPMENT GOALS 
 - Remote access to the complete database of the targeted device with full invisibility on targeted devices.
-- Remote **LIVE SCREEN SHARING OF TARGETED DEVICE**
-- Remote **WEB HISTORY**(in the processing)
-- Remote **MONITORING MULTIPLE DEVICES AT A TIME WITH BETTER CONSOLE**
+- Remote  access the **LIVE SCREEN SHARING OF TARGETED DEVICE**
+- Remotely access to  **WEB HISTORY**(in processing)
+- Remotely **MONITORING MULTIPLE DEVICES AT A TIME WITH BETTER CONSOLE**
 -  **REALTIME WEB CONSOLE FOR  MONITORING AND CONTROLLING**
 -  **BETTER UX/UI DESIGN EXPERIENCE** 
 
