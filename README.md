@@ -34,7 +34,7 @@ This ensures the app keeps running in the background at all times. Getting the a
 - For the child or client app clone my repository [click here ](https://github.com/ranaaditya/Child)
 
 
-- For parent or spyer side app clone my repository [click here ](https://github.com/rana_aditya/SPYZIER)
+- For parent or spyer side app clone my repository [this repository]()
 
 #### AFTER CLONING THE BOTH APPS
 - first  make a developer account on google developer console and  google firebase.
