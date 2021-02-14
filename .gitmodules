@@ -1,0 +1,3 @@
+[submodule "child-app"]
+	path = child-app
+	url = git@github.com:ranaaditya/Child-SPYZIER-APP
