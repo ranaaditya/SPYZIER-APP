@@ -16,7 +16,7 @@ Advanced features such as  **INSTANTANEOUS SCREENCAPTURE**,**CALL LOGS** , **MES
 This ensures the app keeps running in the background at all times. Getting the app installed on the device is relatively easy. Once installed, the app begins to collect information without ado. You can monitor on calls, text messages, call logs , remotely control the device as well as installed apps.
 
 ## COMPATIBILITY
-**_SPYZIER_** is compatible with  **Android Oreo (API >=26)** and onwards ... 
+**_SPYZIER_** is compatible with  **Android Oreo (API >=26)** and **tested upto Android API 29**
 
 
 ## **KEY TECHNOLOGY USED**
