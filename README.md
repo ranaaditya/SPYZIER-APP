@@ -54,6 +54,8 @@ This ensures the app keeps running in the background at all times. Getting the a
 ## CONTRIBUTION 
 - Is always welcome.
 
+### Issue
+If it's a UI issue in building the project, please provide a valid screenshot while raising the issue.
 ## important note 
  **:star:**  this **Repo** if you like it !
 
