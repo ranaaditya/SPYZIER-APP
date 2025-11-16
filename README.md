@@ -1,8 +1,4 @@
 # SPYZIER
-![alt text][logo]
-
-[logo]:https://firebasestorage.googleapis.com/v0/b/test-879af.appspot.com/o/uploads%2FScreenshot%20(22).png?alt=media&token=fedda271-36d7-4d6e-b31b-719361255fb2
-
 
 ## **ABOUT THIS APP**
 
